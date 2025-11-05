@@ -1,5 +1,5 @@
 ![Header](./header-banner.png)
-<h2 align="left">Hello world 👋! My name is Guilherme and I'm a beginner developer, from brazil</h2>
+<h2 align="left">My name is Guilherme and I'm a beginner developer, from brazil</h2>
 
 ###
 
