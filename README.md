@@ -25,8 +25,7 @@
   </a>
 </div>
 
- Owner <a href="https://discord.gg/gn7YzdqeH8" style="text-decoration: underline; color: #58a6ff;">DarkMc</a> 
-and coordinator of <a href="https://discord.gg/T9dTK3pMsz" style="text-decoration: underline; color: #58a6ff;">RedeThunder</a>
+Coordinator of <a href="https://discord.gg/T9dTK3pMsz" style="text-decoration: underline; color: #58a6ff;">RedeThunder</a>
 
  <p align="left">Boxpvp java server configurator in spare time.</p>
 
