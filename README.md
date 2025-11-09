@@ -25,8 +25,6 @@
   </a>
 </div>
 
-Coordinator of <a href="https://discord.gg/T9dTK3pMsz" style="text-decoration: underline; color: #58a6ff;">RedeThunder</a>
-
  <p align="left">Boxpvp java server configurator in spare time.</p>
 
 
